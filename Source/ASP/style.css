@@ -1,0 +1,394 @@
+BODY
+{
+    SCROLLBAR-FACE-COLOR: #ffffff;
+    FONT-SIZE: 9pt;
+    SCROLLBAR-HIGHLIGHT-COLOR: #dadada;
+    SCROLLBAR-SHADOW-COLOR: #666666;
+    COLOR: #000000;
+    SCROLLBAR-3DLIGHT-COLOR: #999999;
+    SCROLLBAR-ARROW-COLOR: #999999;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    SCROLLBAR-DARKSHADOW-COLOR: #eff0eb;
+    SCROLLBAR-BASE-COLOR: #ffffff
+}
+INPUT
+{
+    BORDER-RIGHT: #959595 1px solid;
+    BORDER-TOP: #959595 1px solid;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: #959595 1px solid;
+    COLOR: #111111;
+    BORDER-BOTTOM: #959595 1px solid;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: #f2f2f2
+}
+textarea {
+	background-color: #F2F2F2;
+	border: solid;
+	border-color: #959595;
+	border-width: 1px;
+	color:#111111;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 8pt;
+}
+BUTTON
+{
+    BACKGROUND: url(../imagenes/boton.jpg);
+    COLOR: #999999;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+P
+{
+    PADDING-LEFT: 2px;
+    FONT-SIZE: 9pt;
+    PADDING-BOTTOM: 2px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana,sans-serif
+}
+A
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: Verdana,sans-serif;
+    TEXT-DECORATION: none
+}
+H1
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 13pt;
+    COLOR: #595959;
+    FONT-FAMILY: verdana
+}
+H2
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    COLOR: #595959;
+    PADDING-TOP: 10px;
+    FONT-FAMILY: verdana
+}
+H6
+{
+    MARGIN-TOP: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 7pt;
+    MARGIN-BOTTOM: 5px;
+    COLOR: #686868;
+    MARGIN-RIGHT: 8px;
+    FONT-FAMILY: verdana;
+    TEXT-ALIGN: right
+}
+TABLE
+{
+    BORDER: none;
+    FONT-SIZE: 8pt;
+    FONT-FAMILY: verdana;
+}
+SELECT
+{
+    FONT-SIZE: 8pt;
+    FONT-FAMILY: verdana;
+}
+.table_toolbar
+{
+    BACKGROUND-COLOR: #cecece;
+}
+.title
+{
+    FONT-SIZE: 11pt;
+    FONT-WEIGHT: bold;
+    BACKGROUND-COLOR: #cecece;
+}
+.subtitle
+{
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    BACKGROUND-COLOR: #cecece;
+}
+
+.boton
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 9px;
+    BACKGROUND-IMAGE: url(../imagenes/boton.jpg);
+    WIDTH: 45px;
+    COLOR: #696969;
+    FONT-STYLE: normal;
+    HEIGHT: 14px
+}
+.menu
+{
+    PADDING-RIGHT: 30px;
+    BACKGROUND-POSITION: right 50%;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    BACKGROUND-IMAGE: url(../imagenes/flecha.jpg);
+    COLOR: #686868;
+    BACKGROUND-REPEAT: no-repeat;
+    FONT-FAMILY: verdana;
+    TEXT-ALIGN: right
+}
+.backmenu
+{
+    BACKGROUND-IMAGE: url(../imagenes/back_menu.jpg);
+    BACKGROUND-REPEAT: repeat-y
+}
+.menu_crowsoft
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 9pt;
+    dBACKGROUND-IMAGE: url(../imagenes/back_crowsoft.jpg);
+    BACKGROUND-COLOR: #66718e;
+    COLOR: #ffffff;
+    FONT-FAMILY: verdana
+}
+.submenu
+{
+    FONT-WEIGHT: 100;
+    FONT-SIZE: 8pt;
+    COLOR: #686868;
+    PADDING-TOP: 2px;
+    FONT-FAMILY: verdana;
+    LETTER-SPACING: 0pt
+}
+.submenu2
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    COLOR: #686868;
+    PADDING-TOP: 2px;
+    FONT-FAMILY: verdana;
+    LETTER-SPACING: 0pt;
+    TEXT-DECORATION: none
+}
+.filtros
+{
+    FONT-WEIGHT: 100;
+    FONT-SIZE: 7pt;
+    COLOR: #686868;
+    PADDING-TOP: 2px;
+    FONT-FAMILY: verdana;
+    WHITE-SPACE: pre;
+    LETTER-SPACING: 1pt
+}
+.actual_submenu
+{
+    FONT-WEIGHT: 100;
+    FONT-SIZE: 8pt;
+    COLOR: #686868;
+    PADDING-TOP: 2px;
+    BACKGROUND-REPEAT: repeat-x;
+    FONT-FAMILY: verdana;
+    WHITE-SPACE: pre;
+    LETTER-SPACING: 1pt;
+    HEIGHT: 20px;
+    BACKGROUND-COLOR: #cccccc
+}
+.titulo
+{
+    PADDING-RIGHT: 10px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 9pt;
+    COLOR: #686868;
+    FONT-FAMILY: verdana;
+    TEXT-ALIGN: right
+}
+.titulonot
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    COLOR: #686868;
+    FONT-FAMILY: verdana;
+    BACKGROUND-COLOR: #dcdcdc
+}
+.departamento
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    COLOR: #686868;
+    FONT-FAMILY: verdana;
+    BACKGROUND-COLOR: #dcdcdc
+}
+.departamentoActivo
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    COLOR: darkblue;
+    FONT-FAMILY: verdana;
+    BACKGROUND-COLOR: #dcdcdc
+}
+.texto
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 9pt;
+    COLOR: #333333;
+    FONT-FAMILY: verdana
+}
+.textocalendario
+{
+    PADDING-RIGHT: 1px;
+    PADDING-LEFT: 1px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 7pt;
+    PADDING-BOTTOM: 0px;
+    COLOR: #333333;
+    PADDING-TOP: 0px;
+    FONT-FAMILY: verdana;
+    LETTER-SPACING: 0pt
+}
+.textocalendario2
+{
+    PADDING-RIGHT: 1px;
+    PADDING-LEFT: 1px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 7pt;
+    PADDING-BOTTOM: 0px;
+    COLOR: #333333;
+    PADDING-TOP: 0px;
+    FONT-FAMILY: verdana;
+    BACKGROUND-COLOR: #cecece
+}
+.titulonoticias
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 6.5pt;
+    COLOR: #686868;
+    FONT-FAMILY: verdana
+}
+.linknoticias
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 7pt;
+    COLOR: #ffa500;
+    FONT-FAMILY: verdana
+}
+.textonov
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8pt;
+    COLOR: #666666;
+    FONT-FAMILY: verdana
+}
+.textoContnov
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 9pt;
+    COLOR: #666666;
+    FONT-FAMILY: verdana
+}
+textornov
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8pt;
+    COLOR: #ffffff;
+    FONT-FAMILY: verdana
+}
+.textonovm
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8pt;
+    COLOR: #ffffff;
+    FONT-FAMILY: verdana
+}
+.cajaG
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8pt;
+    BACKGROUND-IMAGE: url(../imagenes/top_m.jpg);
+    COLOR: #ffffff;
+    BACKGROUND-REPEAT: repeat-x;
+    FONT-FAMILY: verdana
+}
+.cajaCH
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8pt;
+    BACKGROUND-IMAGE: url(../imagenes/top_recomendados_m.jpg);
+    COLOR: #ffffff;
+    BACKGROUND-REPEAT: repeat-x;
+    FONT-FAMILY: verdana
+}
+.caja_m_novedades
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8pt;
+    BACKGROUND-IMAGE: url(../imagenes/top_cajam_novedades.jpg);
+    COLOR: #ffffff;
+    BACKGROUND-REPEAT: repeat-x;
+    FONT-FAMILY: verdana
+}
+.top
+{
+    BACKGROUND-IMAGE: url(../imagenes/top_aaarba.jpg);
+    WIDTH: 72px;
+    BACKGROUND-REPEAT: no-repeat
+}
+.backgeneral
+{
+    BACKGROUND-COLOR: white
+}
+.top_v_m
+{
+    FONT-SIZE: 9px;
+    BACKGROUND-IMAGE: url(../imagenes/top_m_v.jpg);
+    COLOR: #ffffff;
+    BACKGROUND-REPEAT: repeat-x;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 18px
+}
+.top_v_m2
+{
+    FONT-SIZE: 9px;
+    BACKGROUND-IMAGE: url(../imagenes/top_m_v2.jpg);
+    COLOR: #ffffff;
+    BACKGROUND-REPEAT: repeat-x;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 18px
+}
+.checkbox
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: medium none;
+    COLOR: #111111;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: white
+}
+.checkbox2
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-SIZE: 9px;
+    BACKGROUND-IMAGE: url(../imagenes/top_m_v.jpg);
+    BORDER-LEFT: medium none;
+    COLOR: #ffffff;
+    BORDER-BOTTOM: medium none;
+    BACKGROUND-REPEAT: repeat-x;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 12px
+}
+.checkbox3
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: medium none;
+    COLOR: #686868;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: verdana;
+    BACKGROUND-COLOR: #dcdcdc
+}
+.TituloReport
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    COLOR: #595959;
+    FONT-FAMILY: verdana
+}
+.submenu2 A
+{
+    COLOR: #686868;
+    FONT-SIZE: 8pt;
+}
